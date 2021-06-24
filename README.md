@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @powder22
+- 👋 Hi, I’m @Boopathi
 - 👀 I’m interested in web technology
 - 🌱 I’m currently learning nodeJS
 - 💞️ I’m looking to collaborate on new projects
